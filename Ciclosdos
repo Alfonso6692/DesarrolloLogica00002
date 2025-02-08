@@ -25,7 +25,7 @@ public class Ciclosdos {
 				System.out.print(j+",");
 			}else {
 				System.out.print(i+",");
-				System.out.print(j+",");
+				System.out.print(j);
 			}
 			i++;
 			j--;
@@ -40,7 +40,7 @@ public class Ciclosdos {
 				System.out.print(j+",");
 			}else {
 				System.out.print(i+",");
-				System.out.print(j+",");
+				System.out.print(j);
 			}
 			i++;
 			j--;
